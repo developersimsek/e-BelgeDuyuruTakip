@@ -50,8 +50,9 @@ Example
 
   
 ## Yol haritası
-- Google Play'de yayınlama.
-- App Store'de yayınlama.
-- Daha fazla entegrasyon ekleme
+- Google Play'de yayınla.
+- App Store'de yayınla.
+- State Menegament kullan.
+- Daha fazla entegrasyon ekle.
 
   
