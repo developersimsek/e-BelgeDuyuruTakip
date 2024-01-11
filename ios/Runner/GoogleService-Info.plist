@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>342487794267-fun6vcn5r34sp95kdhqmsgjsqhc5hugt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.342487794267-fun6vcn5r34sp95kdhqmsgjsqhc5hugt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDL5scW3c9OKvucmyDGldptZRA2fchX8FE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>342487794267</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.developersimsek.ebelgeduyurutakip</string>
+	<key>PROJECT_ID</key>
+	<string>e-belge-duyuru-takip</string>
+	<key>STORAGE_BUCKET</key>
+	<string>e-belge-duyuru-takip.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:342487794267:ios:26c0791c650266aeaff57e</string>
+	<key>DATABASE_URL</key>
+	<string>https://e-belge-duyuru-takip-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

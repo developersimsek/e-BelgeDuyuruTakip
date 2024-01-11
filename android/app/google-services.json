@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "110192665530",
+    "firebase_url": "https://ebelgeduyurutakiptest-2fde3-default-rtdb.firebaseio.com",
+    "project_id": "ebelgeduyurutakiptest-2fde3",
+    "storage_bucket": "ebelgeduyurutakiptest-2fde3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110192665530:android:45527a8138bfb6c0a4f383",
+        "android_client_info": {
+          "package_name": "com.ebelgeduyurutakip.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnP1TJVj2JTu47LZcgw8KuqVrxwcOnFhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
