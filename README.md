@@ -11,9 +11,6 @@
 ## Ekran Görüntüleri
 
 ![Ana Ekran](screenshots/1.png)
-![Menü](screenshots/2.png)
-![e-Arşiv Fatura Doğrulama](screenshots/3.png)
-![e-SMM Doğrulama](screenshots/4.png)
 
 ## Android Build
 
