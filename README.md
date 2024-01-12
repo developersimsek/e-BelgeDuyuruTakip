@@ -10,7 +10,7 @@
 -  Mükellef Sorgulama (e-Fatura, e-Arşiv, e-İrsaliye, e-SMM ve e-MM)
 ## Ekran Görüntüleri
 
-![Ana Ekran](screenshots/Presentation.png)
+![Ana Ekran](screenshots/Presentations.png)
 
 ## Android Build
 
